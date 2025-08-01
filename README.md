@@ -10,3 +10,9 @@ This is a sample Flutter application built using **Riverpod** and **Clean Archit
    ```bash
    git clone https://github.com/Manish-dev200/personal_finance_tracker.git
    cd personal_finance_tracker
+
+
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](screenshot1.png)
