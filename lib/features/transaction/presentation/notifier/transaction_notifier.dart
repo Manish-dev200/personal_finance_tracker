@@ -58,6 +58,8 @@ class TransactionNotifier extends StateNotifier<TransactionState> {
     loadInitialData();
   }
 
+
+
   Future<void> loadInitialData() async {
     state = state.copyWith(isLoading: true);
     try {
