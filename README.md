@@ -12,7 +12,3 @@ This is a sample Flutter application built using **Riverpod** and **Clean Archit
    cd personal_finance_tracker
 
 
-## 📸 Screenshots
-
-### Home Screen
-![Home Screen](screenshot1.png)
